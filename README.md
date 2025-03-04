@@ -1,16 +1,20 @@
 ## Hi there 👋  
 
-\-  
-\-  
-\-  
-\-  
-while(breathing){  
+
+<pre>
+-  
+-  
+-  
+-  
+while (breathing) {  
   Walk In His Steps ;  
 }  
-\-  
-\-  
-\-  
-\-  
+-  
+-  
+-  
+-
+</pre>
+  
 
 <!--
 **Seolock/Seolock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
