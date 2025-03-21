@@ -1,19 +1,7 @@
 ## Hi there 👋  
 
 
-<pre>
--  
--  
--  
--  
-while (breathing) {  
-  Walk In His Steps ;  
-}  
--  
--  
--  
--
-</pre>
+
   
 
 <!--
