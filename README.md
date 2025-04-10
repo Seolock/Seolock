@@ -1,4 +1,4 @@
-## For God and His kingdom 🌱 
+## for Him and His kingdom 🌱 
 
 
 
