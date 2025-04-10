@@ -1,4 +1,4 @@
-## for Him and His kingdom 🌱 
+## IN HIS STEPS 🌱 
 
 
 
